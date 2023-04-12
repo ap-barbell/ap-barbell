@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ap-barbell
-- 👀 I’m interested in  using data to make decisions and find patterns. 
-- 🌱 I’m currently learning data analytics! I have taught myself SQL, Tableu and am currently teaching myself Python.
+- 👀 I’m interested in becoming a Cyber Security professional.
+- 🌱 I’m currently learning computer science! I have taught myself SQL, Python and computer sceince basics.
 - 💞️ I’m looking to collaborate on any project! I am excited to learn from anyone and grow my education through practical application. I have a special place in my heart for sports.
 
 
